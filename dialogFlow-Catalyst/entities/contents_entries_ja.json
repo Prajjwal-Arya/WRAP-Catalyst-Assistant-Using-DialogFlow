@@ -1,0 +1,459 @@
+[
+  {
+    "value": "KakuhoPrcint",
+    "synonyms": [
+      "KakuhoPrcint",
+      "カクホウ"
+    ]
+  },
+  {
+    "value": "acos",
+    "synonyms": [
+      "acos",
+      "エーコス"
+    ]
+  },
+  {
+    "value": "airport",
+    "synonyms": [
+      "airport",
+      "エアポート",
+      "空港"
+    ]
+  },
+  {
+    "value": "amedas",
+    "synonyms": [
+      "amedas",
+      "アメダス"
+    ]
+  },
+  {
+    "value": "analysisAsia",
+    "synonyms": [
+      "analysisAsia",
+      "アジアカイセキ"
+    ]
+  },
+  {
+    "value": "analysisGlobal",
+    "synonyms": [
+      "analysisGlobal",
+      "グローバルカイセキ",
+      "全球解析"
+    ]
+  },
+  {
+    "value": "analysisWNI",
+    "synonyms": [
+      "analysisWNI",
+      "カイセキウリョウ",
+      "解析雨量"
+    ]
+  },
+  {
+    "value": "asc",
+    "synonyms": [
+      "asc",
+      "エーエスシー"
+    ]
+  },
+  {
+    "value": "basictest",
+    "synonyms": [
+      "basictest",
+      "テスト , ベーシック",
+      "ベーシックテスト",
+      "基本テスト"
+    ]
+  },
+  {
+    "value": "compassexdb",
+    "synonyms": [
+      "compassexdb",
+      "コンパスカゼ"
+    ]
+  },
+  {
+    "value": "compasshour",
+    "synonyms": [
+      "compasshour",
+      "コンパスタンキ"
+    ]
+  },
+  {
+    "value": "current",
+    "synonyms": [
+      "current",
+      "カレント",
+      "海流",
+      "現在"
+    ]
+  },
+  {
+    "value": "dash",
+    "synonyms": [
+      "dash",
+      "ダッシュ"
+    ]
+  },
+  {
+    "value": "disasterreport",
+    "synonyms": [
+      "disasterreport",
+      "サイガイ",
+      "災害"
+    ]
+  },
+  {
+    "value": "earthquake",
+    "synonyms": [
+      "earthquake",
+      "ジシン",
+      "地震"
+    ]
+  },
+  {
+    "value": "fir",
+    "synonyms": [
+      "fir",
+      "エフアイアール"
+    ]
+  },
+  {
+    "value": "fix",
+    "synonyms": [
+      "fix",
+      "フィックス"
+    ]
+  },
+  {
+    "value": "gass",
+    "synonyms": [
+      "gass",
+      "ジーエースケール"
+    ]
+  },
+  {
+    "value": "gfs",
+    "synonyms": [
+      "gfs",
+      "ジーエフエス"
+    ]
+  },
+  {
+    "value": "gpvhourlyAnalysis",
+    "synonyms": [
+      "gpvhourlyAnalysis",
+      "マイジタイキ"
+    ]
+  },
+  {
+    "value": "grid",
+    "synonyms": [
+      "grid",
+      "グリッド"
+    ]
+  },
+  {
+    "value": "gsm",
+    "synonyms": [
+      "gsm",
+      "ジーエスエム"
+    ]
+  },
+  {
+    "value": "hilofront",
+    "synonyms": [
+      "hilofront",
+      "ゼンセン"
+    ]
+  },
+  {
+    "value": "iceberg",
+    "synonyms": [
+      "iceberg",
+      "アイスバーグ",
+      "ヒョウザン"
+    ]
+  },
+  {
+    "value": "iceconcentration",
+    "synonyms": [
+      "iceconcentration",
+      "ヒョウセツミツド",
+      "氷の濃度",
+      "海氷"
+    ]
+  },
+  {
+    "value": "intelligentcamera",
+    "synonyms": [
+      "AIカメラ",
+      "intelligentcamera",
+      "エーアイカメラ"
+    ]
+  },
+  {
+    "value": "japancityborder",
+    "synonyms": [
+      "japancityborder",
+      "シチョウソン",
+      "市町村"
+    ]
+  },
+  {
+    "value": "jmaseawarn",
+    "synonyms": [
+      "jmaseawarn",
+      "カイジョウケイホウ",
+      "海上警報"
+    ]
+  },
+  {
+    "value": "jmawarn",
+    "synonyms": [
+      "jmawarn",
+      "ケイホウ",
+      "チュウイホウ"
+    ]
+  },
+  {
+    "value": "jp10ten",
+    "synonyms": [
+      "jp10ten",
+      "ジッテン",
+      "ジュッテン"
+    ]
+  },
+  {
+    "value": "kansui",
+    "synonyms": [
+      "kansui",
+      "カンスイ",
+      "冠水"
+    ]
+  },
+  {
+    "value": "knSnow",
+    "synonyms": [
+      "knSnow",
+      "カイセキセキセツ",
+      "解析積雪"
+    ]
+  },
+  {
+    "value": "latlon",
+    "synonyms": [
+      "latlon",
+      "イドケイド",
+      "緯度経度"
+    ]
+  },
+  {
+    "value": "lightning",
+    "synonyms": [
+      "lightning",
+      "カミナリ",
+      "落雷"
+    ]
+  },
+  {
+    "value": "lightningexpo",
+    "synonyms": [
+      "lightningexpo",
+      "ライデン",
+      "落雷全球"
+    ]
+  },
+  {
+    "value": "livecamera",
+    "synonyms": [
+      "livecamera",
+      "カメラ",
+      "ライブカメラ"
+    ]
+  },
+  {
+    "value": "mcrnet",
+    "synonyms": [
+      "mcrnet",
+      "マイクロネット"
+    ]
+  },
+  {
+    "value": "metartaf",
+    "synonyms": [
+      "metartaf",
+      "メタ",
+      "メタタフ"
+    ]
+  },
+  {
+    "value": "msm",
+    "synonyms": [
+      "msm",
+      "エムエスエム"
+    ]
+  },
+  {
+    "value": "msmground",
+    "synonyms": [
+      "msmground",
+      "エムチジョウ"
+    ]
+  },
+  {
+    "value": "multimap",
+    "synonyms": [
+      "multimap",
+      "マルチマップ"
+    ]
+  },
+  {
+    "value": "navaids",
+    "synonyms": [
+      "navaids",
+      "ナブエイズ"
+    ]
+  },
+  {
+    "value": "noaaAnalysisSST",
+    "synonyms": [
+      "noaaAnalysisSST",
+      "カイスイオン",
+      "海水温"
+    ]
+  },
+  {
+    "value": "poteka",
+    "synonyms": [
+      "poteka",
+      "ポテカ"
+    ]
+  },
+  {
+    "value": "radar",
+    "synonyms": [
+      "radar",
+      "レーダー"
+    ]
+  },
+  {
+    "value": "radaramedas",
+    "synonyms": [
+      "radaramedas",
+      "レーアメ"
+    ]
+  },
+  {
+    "value": "satellite",
+    "synonyms": [
+      "satellite",
+      "サテライト",
+      "衛星"
+    ]
+  },
+  {
+    "value": "seasprayicing",
+    "synonyms": [
+      "seasprayicing",
+      "シースプレーアイシング",
+      "センタイチャクヒョウ",
+      "着氷"
+    ]
+  },
+  {
+    "value": "seavisibility",
+    "synonyms": [
+      "seavisibility",
+      "カイジョウシテイ",
+      "海の視界"
+    ]
+  },
+  {
+    "value": "sigmet",
+    "synonyms": [
+      "sigmet",
+      "シグメット"
+    ]
+  },
+  {
+    "value": "sigwx",
+    "synonyms": [
+      "sigwx",
+      "シグウェザー"
+    ]
+  },
+  {
+    "value": "surfacepressure",
+    "synonyms": [
+      "surfacepressure",
+      "エヌセップ",
+      "地上気圧",
+      "面圧"
+    ]
+  },
+  {
+    "value": "synop",
+    "synonyms": [
+      "synop",
+      "シノップ"
+    ]
+  },
+  {
+    "value": "tiledmap",
+    "synonyms": [
+      "tiledmap",
+      "コッキョウ",
+      "国境"
+    ]
+  },
+  {
+    "value": "tornado",
+    "synonyms": [
+      "tornado",
+      "タツマキ",
+      "竜巻"
+    ]
+  },
+  {
+    "value": "tropicalstorm",
+    "synonyms": [
+      "tropicalstorm",
+      "タイフウ",
+      "台風"
+    ]
+  },
+  {
+    "value": "ukmet",
+    "synonyms": [
+      "ukmet",
+      "ユーケーメット"
+    ]
+  },
+  {
+    "value": "vaa",
+    "synonyms": [
+      "vaa",
+      "ブイエーエー"
+    ]
+  },
+  {
+    "value": "waveblend",
+    "synonyms": [
+      "waveblend",
+      "ウェイブウォッチ",
+      "ウェーブブレンド",
+      "ハコウ"
+    ]
+  },
+  {
+    "value": "windbarbs",
+    "synonyms": [
+      "windbarbs",
+      "グランドマスタ",
+      "矢羽"
+    ]
+  }
+]

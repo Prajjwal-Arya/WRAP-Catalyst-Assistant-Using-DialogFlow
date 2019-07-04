@@ -1,0 +1,428 @@
+[
+  {
+    "value": "KakuhoPrcint",
+    "synonyms": [
+      "Kakuho Prcint",
+      "KakuhoPrcint"
+    ]
+  },
+  {
+    "value": "acos",
+    "synonyms": [
+      "ACOS",
+      "ACOS for VA",
+      "VA"
+    ]
+  },
+  {
+    "value": "airport",
+    "synonyms": [
+      "Airport",
+      "aerodrome",
+      "air station",
+      "airdrome",
+      "airfield",
+      "airstrip",
+      "helipad",
+      "heliport",
+      "landing strip",
+      "runway"
+    ]
+  },
+  {
+    "value": "amedas",
+    "synonyms": [
+      "amedas"
+    ]
+  },
+  {
+    "value": "analysisAsia",
+    "synonyms": [
+      "Asia analysis",
+      "analysis Asia",
+      "analysisAsia"
+    ]
+  },
+  {
+    "value": "analysisGlobal",
+    "synonyms": [
+      "Global analysis",
+      "analysis Global",
+      "analysisGlobal"
+    ]
+  },
+  {
+    "value": "analysisWNI",
+    "synonyms": [
+      "WNI analysis",
+      "analysis WNI",
+      "analysisWNI"
+    ]
+  },
+  {
+    "value": "asc",
+    "synonyms": [
+      "ASC",
+      "ASC Scale"
+    ]
+  },
+  {
+    "value": "current",
+    "synonyms": [
+      "Current"
+    ]
+  },
+  {
+    "value": "dash",
+    "synonyms": [
+      "DaSH"
+    ]
+  },
+  {
+    "value": "disasterreport",
+    "synonyms": [
+      "disaster report",
+      "disaster-report",
+      "disasterreport",
+      "report disaster",
+      "report-disaster"
+    ]
+  },
+  {
+    "value": "earthquake",
+    "synonyms": [
+      "earthquake"
+    ]
+  },
+  {
+    "value": "fir",
+    "synonyms": [
+      "FIR"
+    ]
+  },
+  {
+    "value": "fix",
+    "synonyms": [
+      "FIX"
+    ]
+  },
+  {
+    "value": "gass",
+    "synonyms": [
+      "GASS scale",
+      "gass"
+    ]
+  },
+  {
+    "value": "gfs",
+    "synonyms": [
+      "GFS",
+      "gfs"
+    ]
+  },
+  {
+    "value": "gpvhourlyAnalysis",
+    "synonyms": [
+      "analysis gpv hourly",
+      "gpv hourly analysis",
+      "gpvhourlyAnalysis"
+    ]
+  },
+  {
+    "value": "grid",
+    "synonyms": [
+      "grid"
+    ]
+  },
+  {
+    "value": "gsm",
+    "synonyms": [
+      "GSM"
+    ]
+  },
+  {
+    "value": "hilofront",
+    "synonyms": [
+      "High Low Front",
+      "hi lo front",
+      "high-low",
+      "high/low",
+      "highlow",
+      "hillofront",
+      "hilo front",
+      "surface analysis"
+    ]
+  },
+  {
+    "value": "iceberg",
+    "synonyms": [
+      "berg",
+      "floater",
+      "growler",
+      "ice mass",
+      "iceberg"
+    ]
+  },
+  {
+    "value": "iceconcentration",
+    "synonyms": [
+      "ISEFF",
+      "Ice Concentration",
+      "Ice thickness",
+      "iceconcentration"
+    ]
+  },
+  {
+    "value": "intelligentcamera",
+    "synonyms": [
+      "intelligent camera",
+      "intelligentcamera"
+    ]
+  },
+  {
+    "value": "japancityborder",
+    "synonyms": [
+      "city border",
+      "japan border",
+      "japan city border",
+      "japancityborder"
+    ]
+  },
+  {
+    "value": "jmaseawarn",
+    "synonyms": [
+      "jma sea warn",
+      "jma sea warning",
+      "jmaseawarn"
+    ]
+  },
+  {
+    "value": "jmawarn",
+    "synonyms": [
+      "jma warn",
+      "jmawarn"
+    ]
+  },
+  {
+    "value": "jp10ten",
+    "synonyms": [
+      "jp10ten"
+    ]
+  },
+  {
+    "value": "kansui",
+    "synonyms": [
+      "kansui"
+    ]
+  },
+  {
+    "value": "knSnow",
+    "synonyms": [
+      "Analytical snowfall",
+      "knSnow"
+    ]
+  },
+  {
+    "value": "latlon",
+    "synonyms": [
+      "lat and lon",
+      "lat lon",
+      "latitude",
+      "latitude and longtitude",
+      "latlon",
+      "lon and lat",
+      "lon lat",
+      "longtitude",
+      "longtitude and latitude",
+      "lonlat"
+    ]
+  },
+  {
+    "value": "lightning",
+    "synonyms": [
+      "lightning"
+    ]
+  },
+  {
+    "value": "lightningexpo",
+    "synonyms": [
+      "lightning expo",
+      "lightningexpo"
+    ]
+  },
+  {
+    "value": "livecamera",
+    "synonyms": [
+      "live camera",
+      "livecamera"
+    ]
+  },
+  {
+    "value": "mcrnet",
+    "synonyms": [
+      "mcrnet"
+    ]
+  },
+  {
+    "value": "metartaf",
+    "synonyms": [
+      "METAR and TAF",
+      "metar taf",
+      "metartaf",
+      "taf and metar"
+    ]
+  },
+  {
+    "value": "msm",
+    "synonyms": [
+      "MSM"
+    ]
+  },
+  {
+    "value": "msmground",
+    "synonyms": [
+      "MSM Ground",
+      "MSM-ground",
+      "msmground"
+    ]
+  },
+  {
+    "value": "multimap",
+    "synonyms": [
+      "multi map",
+      "multimap"
+    ]
+  },
+  {
+    "value": "navaids",
+    "synonyms": [
+      "NAVAIDS"
+    ]
+  },
+  {
+    "value": "noaaAnalysisSST",
+    "synonyms": [
+      "noaa Analysis SST",
+      "noaaAnalysisSST"
+    ]
+  },
+  {
+    "value": "poteka",
+    "synonyms": [
+      "poteka"
+    ]
+  },
+  {
+    "value": "radar",
+    "synonyms": [
+      "radar"
+    ]
+  },
+  {
+    "value": "radarmedas",
+    "synonyms": [
+      "radar medas",
+      "radarmedas"
+    ]
+  },
+  {
+    "value": "satellite",
+    "synonyms": [
+      "satellite"
+    ]
+  },
+  {
+    "value": "seasprayicing",
+    "synonyms": [
+      "sea spray icing",
+      "seasprayicing",
+      "spray icing",
+      "sprayicing"
+    ]
+  },
+  {
+    "value": "seavisibility",
+    "synonyms": [
+      "seavisibility",
+      "visibility"
+    ]
+  },
+  {
+    "value": "sigmet",
+    "synonyms": [
+      "SIGMET"
+    ]
+  },
+  {
+    "value": "sigwx",
+    "synonyms": [
+      "SIGWX"
+    ]
+  },
+  {
+    "value": "surfacepressure",
+    "synonyms": [
+      "Ensemble",
+      "NOAA",
+      "NOAA Ensemble",
+      "Surface Pressure"
+    ]
+  },
+  {
+    "value": "synop",
+    "synonyms": [
+      "synop"
+    ]
+  },
+  {
+    "value": "tiledmap",
+    "synonyms": [
+      "tiled",
+      "tiled map",
+      "tiledmap"
+    ]
+  },
+  {
+    "value": "tornado",
+    "synonyms": [
+      "tornado"
+    ]
+  },
+  {
+    "value": "tropicalstorm",
+    "synonyms": [
+      "tropical storm",
+      "tropicalstorm"
+    ]
+  },
+  {
+    "value": "ukmet",
+    "synonyms": [
+      "UKMET"
+    ]
+  },
+  {
+    "value": "vaa",
+    "synonyms": [
+      "VAA"
+    ]
+  },
+  {
+    "value": "waveblend",
+    "synonyms": [
+      "Wave",
+      "wave direction",
+      "wave height",
+      "wave height and direction",
+      "waveblend"
+    ]
+  },
+  {
+    "value": "windbarbs",
+    "synonyms": [
+      "Grand Master",
+      "Wind Barbs",
+      "windbarbs"
+    ]
+  }
+]

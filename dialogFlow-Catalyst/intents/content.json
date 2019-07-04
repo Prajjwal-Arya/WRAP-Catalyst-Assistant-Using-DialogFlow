@@ -1,0 +1,41 @@
+{
+  "id": "60380ca5-45e4-4be1-8d3a-4e68d12bf6be",
+  "name": "content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "71e633c6-5828-4083-adca-b722a1443cd9",
+          "required": false,
+          "dataType": "@contents",
+          "name": "contents",
+          "value": "$contents",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": "オープニング $contents."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Opening $contents ."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
