@@ -8,7 +8,7 @@ Natural language understanding recognizes a user’s intent and extracts prebuil
 
 ### Getting started with dialogflow (https://dialogflow.com/docs)
 
-### VersionControl 
+### Version Control 
 If you want to share it or use others agent you can simply use  [Export, Import and Restore](https://dialogflow.com/docs/agents/export-import-restore)  . 
 
 ### To use your agent in [WRAP-Catalyst](https://github.com/weathernews/WRAP-Catalyst/tree/prajjwal_chatbot/)
