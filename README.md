@@ -8,3 +8,7 @@ Natural language understanding recognizes a user’s intent and extracts prebuil
 
 #### Getting started with dialogflow (https://dialogflow.com/docs)
 
+## Integrating a ChatBot in catalyst
+
+There are various ways to connect dialogflow with a website. In this particular project we have used a middleware which uses [api-ai-javascript] library.
+
