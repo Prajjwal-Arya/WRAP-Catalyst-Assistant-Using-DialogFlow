@@ -18,5 +18,5 @@ Change the WRAP_APP_ENV variable in files under [env](https://github.com/weather
 If you want to create a multilingual agent, go to this [link](https://dialogflow.com/docs/agents/multilingual) .
 ### Custom Response
 To create some custom response or rich messages use inline editor in [Fulfillment](https://dialogflow.com/docs/fulfillment/configure) .
-### Logs 
-To see logs: open [Firebase](https://console.firebase.google.com) --> then 'go to console' --> open your project --> Checkout your console logs under 'Function' section . 
+### To see logs
+Open [Firebase](https://console.firebase.google.com) --> then 'go to console' --> open your project --> Checkout your console logs under 'Function' section . 
