@@ -12,4 +12,4 @@ After creating a dialogflow agent.
 ##### Note - Client access token is in the agent's settings (the gear icon settings next to the agent's name) under the General tab.
 3. If you want to create a multilingual agent, go to this [link](https://dialogflow.com/docs/agents/multilingual) .
 4. To create some custom response or rich messages use inline editor in Fulfillment.
-5. To see logs: open [firebase](https://console.firebase.google.com) --> then 'go to console' --> open your project --> Checkout your console logs under function section. 
+5. To see logs: open [firebase](https://console.firebase.google.com) --> then 'go to console' --> open your project --> Checkout your console logs under 'Function' section. 
