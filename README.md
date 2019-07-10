@@ -19,4 +19,4 @@ If you want to create a multilingual agent, go to this [link](https://dialogflow
 ### Custom Response
 To create some custom response or rich messages use inline editor in [Fulfillment](https://dialogflow.com/docs/fulfillment/configure) .
 ### Logs 
-To see logs: open [firebase](https://console.firebase.google.com) --> then 'go to console' --> open your project --> Checkout your console logs under 'Function' section . 
+To see logs: open [Firebase](https://console.firebase.google.com) --> then 'go to console' --> open your project --> Checkout your console logs under 'Function' section . 
