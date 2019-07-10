@@ -6,5 +6,4 @@ Natural language understanding recognizes a user’s intent and extracts prebuil
 
 ### Getting started with dialogflow (https://dialogflow.com/docs)
 
-After creating your dialogflow agent. 
-
+After creating a dialogflow agent. If you want to share it or use others agent you can simply use # Export and Import 
